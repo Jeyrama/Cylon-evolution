@@ -30,3 +30,5 @@ HumanSkin.prototype.constructor = HumanSkin;
 HumanSkin.prototype.infiltrate = function() {
   return "Infiltrate the colonies";
 }
+
+// or
