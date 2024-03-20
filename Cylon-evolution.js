@@ -9,3 +9,6 @@ This should have a model, as Cylons do, and should have the same attack.
 However, it should also have a function called infiltrate, 
 which will return the string "Infiltrate the colonies".
 */
+
+
+// Solution
