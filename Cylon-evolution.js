@@ -33,7 +33,7 @@ HumanSkin.prototype.infiltrate = function() {
 
 // or
 
-class Cylon {
+class Cylonbot {
   constructor(model) {
     this.model = model;
   }
@@ -42,7 +42,7 @@ class Cylon {
   };
 }
 
-class HumanSkin extends Cylon {
+class SkinOfHuman extends Cylonbot {
   infiltrate() {
     return `Infiltrate the colonies`;
   };
